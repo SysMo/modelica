@@ -1,0 +1,9 @@
+*.bak-mo
+eFMI
+libs-embedded
+lsp
+misc
+modelica-json
+models
+publications
+
